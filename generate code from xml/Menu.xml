@@ -1,0 +1,34 @@
+<doc>
+  <mainmenu>
+    <visible type="bool">true</visible>
+    <focusitem type="int">4</focusitem>
+  </mainmenu>
+  <mediamenu>
+    <visible type="bool">false</visible>
+    <focustabitem type="int">0</focustabitem>
+    <focussubitem type="int">1</focussubitem>
+    <focussubitemState type="int">3</focussubitemState><!--0:normal state,1: selectedUnFav state,2: pressed state,3: selectedFav state-->
+    <pressState type="bool">true</pressState><!--true:press false:release-->
+  </mediamenu>
+  <phonemenu>
+    <visible type="bool">false</visible>
+    <focusitem type="int">0</focusitem>
+  </phonemenu>
+  <dvrmenu>
+  </dvrmenu>
+  <navimenu>
+    <visible type="bool">false</visible>
+    <focusitem type="int">0</focusitem>
+  </navimenu>
+  <climatemenu>
+    <visible type="bool">false</visible>
+    <focusitem type="int">0</focusitem>
+  </climatemenu>
+</doc>
+
+
+
+
+
+
+
